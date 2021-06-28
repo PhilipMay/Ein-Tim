@@ -1,4 +1,4 @@
-Welcome to my GitHub Profil 👋
+Welcome to my GitHub Profile 👋
 
 ![Ein-Tim's github stats](https://github-readme-stats.vercel.app/api?username=Ein-Tim&show_icons=true&theme=algolia&include_all_commits=true)
 
